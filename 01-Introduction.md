@@ -45,7 +45,7 @@ We will use no single text.  Instead, I encourage you to use available resources
 ### Learning Outcomes 
 By the successful completion of this course, students will be able to:
 
-1. Understand and construct a basic formulation of a definite integral
+1. Formulate a definition of the definite integral
 2. Use the definite integral to solve problems
 3. Understand and construct a basic forumlation for the definition of a derivative
 4. Use differentiation to solve problems
@@ -62,6 +62,7 @@ By the successful completion of this course, students will be able to:
 
 
 ### Resources 
+
 The university provides many resources to help students achieve academic and artistic excellence. These resources include:
 University Libraries: http://library.newschool.edu
 University Learning Center: http://www.newschool.edu/learning-center 
